@@ -5,23 +5,23 @@ Please see below for English.
 
 
 AI 声明
------------
 
-这个桌宠是AI辅助制作的同人作品。最初它是为AI coding软件Codex的pet功能制作的，因此在制作流程中使用了AI辅助。具体来说，我使用《崩坏：星穹铁道》中蜜果羹的官方游戏截图作为输入，将角色形象转换为像素风图片，并在此基础上用AI辅助生成了一些简单的动作变形，用于形成桌宠spritesheet与动画。后续经过了很多人工调整。
 
-本作品没有使用任何画师的同人图作为输入，也没有要求AI模仿任何画师的风格。AI的使用主要是技术性地辅助像素化、简单动作变形和动画帧生成，而不是替代TA人的原创绘画劳动。
+这个桌宠是AI辅助制作的同人作品。最初它是为AI coding软件Codex的pet功能制作的，因此在制作流程中使用了AI。具体来说，我使用《崩坏：星穹铁道》中蜜果羹的官方游戏截图作为输入，将其转换为像素风图片，在此基础上用指令和个人手绘图片与AI交互，生成了一些简单的形变图片，用于制作桌宠spritesheet与动画，后续经过了很多人工调整。
 
-我公开说明这一点，是为了保持透明度，也方便朋友们自行判断是否下载或使用。
+本作品没有使用任何画师的同人图作为输入，也没有要求AI模仿任何画师的风格。AI的使用主要是技术性地辅助像素化、动作形变和动画帧生成，而不是替代TA人的原创绘画劳动。
+
+我公开说明这一点，希望可以保持透明度，也方便朋友们自行判断是否下载或使用。
 
 
 ----------------------------------------
 
 
 AI Statement
-------------------
 
-This desktop pet is an AI-assisted fanwork. It was originally created for the pet feature of Codex, an AI coding agent, so AI assistance was used during the production process. More specifically, I used official in-game screenshots of Fig Stew from Honkai: Star Rail as input, converted the it into pixel images, and then used AI assistance to generate simple motion variations for the desktop pet spritesheet and animations. The final result also went through a lot of manual adjustment.
 
-No fan art by any artist was used as input, and I did not ask AI to imitate any artist's style. The AI use in this project was mainly technical assistance for pixelization, simple motion variation, and animation-frame generation. It was not meant to replace original artwork of human artists.
+This desktop pet is an AI-assisted fanwork. It was originally created for the pet feature of Codex, an AI coding agent, so AI assistance was used during the production process. More specifically, I used official in-game screenshots of Fig Stew from Honkai: Star Rail as input, converted them into pixel images, and then interacted with AI through prompts and my own hand-drawn reference pictures to generate simple variation frames, which were used to make the desktop pet spritesheet and animations. The final result also went through a lot of manual adjustment.
+
+No fan art by any artist was used as input, and I did not ask AI to imitate any artist's style. The AI use in this project was mainly technical assistance for pixelization, transformation, and animation. It was not meant to replace the original artwork of human artists.
 
 I am sharing this statement for transparency, so that everyone can make their own informed decision about whether to download or use it.
